@@ -97,9 +97,9 @@ export default function NorthPointGroupLanding() {
 
 
   const heroImages = [
-    "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
-    "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
-    "https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQoyRlg0V6aXjIRSL2rn04y1OgnFfWBVIJYQ&s",
+    "https://gokilambalacademy.com/wp-content/uploads/2021/01/vision.jpg",
+    "https://digitallearning.eletsonline.com/wp-content/uploads/2019/12/Why-School-education-crucial-for-child-development.jpg",
   ]
 
 
