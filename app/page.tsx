@@ -16,8 +16,8 @@ import logo from "../public/logo.png"
 export default function NorthPointGroupLanding() {
   const schools = [
     {
-      name: "North Point Elementary",
-      level: "Elementary",
+      name: "North Point",
+      level: "",
       grades: "K-5",
       website: "https://northpoint-elementary.edu",
       description: "Building strong foundations for lifelong learning",
